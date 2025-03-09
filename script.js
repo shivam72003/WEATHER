@@ -18,6 +18,8 @@ btn.addEventListener("click", () => {
   fetchData();
 });
 
+//hi
+
 async function fetchData() {
   try {
     let res = await axios.get(`${url}access_key=${access_key}&query=${query}`);
