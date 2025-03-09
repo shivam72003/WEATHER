@@ -6,7 +6,7 @@ let para3 = document.querySelector(".para3");
 let lp1 = document.querySelector(".lp1");
 let lp2 = document.querySelector(".lp2");
 let img = document.querySelector(".img2");
-
+last
 let query = "";
 
 let btn = document.querySelector("button");
